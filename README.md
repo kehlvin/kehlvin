@@ -12,4 +12,4 @@
 ![kehlvin's github stats](https://github-readme-stats.vercel.app/api?username=kehlvin&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 # Other Media
-[![Twitter Badge](https://img.shields.io/badge/-@hiiamkev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hiiamkev)]
+![Twitter Badge](https://img.shields.io/badge/-@hiiamkev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hiiamkev)
