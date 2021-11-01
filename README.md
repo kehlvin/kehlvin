@@ -8,5 +8,5 @@
 
 \\\ Mega Kirby Fan.
 
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=kehlvin&count_private=true&theme=tokyonight&hide=contribs,prs)
+# My Stats
+![kehlvin's github stats](https://github-readme-stats.vercel.app/api?username=kehlvin&count_private=true&theme=tokyonight&hide=contribs,prs)
