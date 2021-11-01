@@ -13,4 +13,4 @@
 
 # Other Media
 [![Twitter Badge](https://img.shields.io/badge/-@hiiamkev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hiiamkev)](https://twitter.com/hiiamkev)
-![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)]
+[![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/UCtHZMGyzrjuwdQUGoTH3gMA)
